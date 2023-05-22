@@ -180,7 +180,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## CIRCUIT DIAGRAM 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by:Akireddy Ruchitha Reddy
+Developed by:Akkireddy Ruchitha Reddy
 Reg.No:212221230004
 ```
 ```
